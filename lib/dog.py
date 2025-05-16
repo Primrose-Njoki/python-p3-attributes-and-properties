@@ -12,8 +12,8 @@ APPROVED_BREEDS = [
 ]
 
 class Dog:
-    def __init__(self,name="",breed="Pug"):
-        self._name=""
+    def __init__(self,name="rose",breed="Pug"):
+       # self._name=""
         self.name=name
         self.breed =breed
        
